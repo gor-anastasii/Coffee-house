@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<filter> 
+    <card id="coffee" num="coff-1">
+        <header>Irish coffee</header> 
+        <text>Fragrant black coffee with Jameson Irish whiskey and whipped milk</text>
+        <price>$7.00</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-1.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-2">
+        <header>Kahlua coffee</header> 
+        <text>Classic coffee with milk and Kahlua liqueur under a cap of frothed milk</text>
+        <price>$7.00</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-2.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-3">
+        <header>Honey raf</header> 
+        <text>Espresso with frothed milk, cream and aromatic honey</text>
+        <price>$5.50</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-3.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-4">
+        <header>Ice cappuccino</header> 
+        <text>Cappuccino with soft thick foam in summer version with ice</text>
+        <price>$5.00</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-4.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-5">
+        <header>Espresso</header> 
+        <text>Classic black coffee</text>
+        <price>$4.50</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-5.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-6">
+        <header>Latte</header> 
+        <text>Espresso coffee with the addition of steamed milk and dense milk foam</text>
+        <price>$5.50</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-6.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-7">
+        <header>Latte macchiato</header> 
+        <text>Espresso with frothed milk and chocolate</text>
+        <price>$5.50</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-7.jpg'</image> 
+    </card>
+    <card id="coffee" num="coff-8">
+        <header>Coffee with cognac</header> 
+        <text>Fragrant black coffee with cognac and whipped cream</text>
+        <price>$6.50</price> 
+        <image>'../coffee-house/images/coffee-photos/coffee-8.jpg'</image> 
+    </card>
+
+    <card id="tea" num="tea-1">
+        <header>Moroccan</header> 
+        <text>Fragrant black tea with the addition of tangerine, cinnamon, honey, lemon and mint</text>
+        <price>$4.50</price> 
+        <image>'../coffee-house/images/tea-photos/tea-1.png'</image> 
+    </card>
+    <card id="tea" num="tea-2">
+        <header>Ginger</header> 
+        <text>Original black tea with fresh ginger, lemon and honey</text>
+        <price>$5.00</price> 
+        <image>'../coffee-house/images/tea-photos/tea-2.png'</image> 
+    </card>
+    <card id="tea" num="tea-3">
+        <header>Cranberry</header> 
+        <text>Invigorating black tea with cranberry and honey</text>
+        <price>$5.00</price> 
+        <image>'../coffee-house/images/tea-photos/tea-3.png'</image> 
+    </card>
+    <card id="tea" num="tea-4">
+        <header>Sea buckthorn</header> 
+        <text>Toning sweet black tea with sea buckthorn, fresh thyme and cinnamon</text>
+        <price>$5.50</price> 
+        <image>'../coffee-house/images/tea-photos/tea-4.png'</image> 
+    </card>
+
+    <card id="dessert" num="dessert-1">
+        <header>Marble cheesecake</header> 
+        <text>Philadelphia cheese with lemon zest on a light sponge cake and red currant jam</text>
+        <price>$3.50</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-1.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-2">
+        <header>Red velvet</header> 
+        <text>Layer cake with cream cheese frosting</text>
+        <price>$4.00</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-2.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-3">
+        <header>Cheesecakes</header> 
+        <text>Soft cottage cheese pancakes with sour cream and fresh berries and sprinkled with powdered sugar</text>
+        <price>$4.50</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-3.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-4">
+        <header>Creme brulee</header> 
+        <text>Delicate creamy dessert in a caramel basket with wild berries</text>
+        <price>$4.00</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-4.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-5">
+        <header>Pancakes</header> 
+        <text>Tender pancakes with strawberry jam and fresh strawberries</text>
+        <price>$4.50</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-5.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-6">
+        <header>Honey cake</header> 
+        <text>Classic honey cake with delicate custard</text>
+        <price>$4.50</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-6.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-7">
+        <header>Chocolate cake</header> 
+        <text>Cake with hot chocolate filling and nuts with dried apricots</text>
+        <price>$5.50</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-7.png'</image> 
+    </card>
+    <card id="dessert" num="dessert-8">
+        <header>Black forest</header> 
+        <text>A combination of thin sponge cake with cherry jam and light chocolate mousse</text>
+        <price>$6.50</price> 
+        <image>'../coffee-house/images/dessert-photos/dessert-8.png'</image> 
+    </card>
+</filter>
